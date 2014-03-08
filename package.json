@@ -1,0 +1,40 @@
+{
+  "name": "cao",
+  "version": "0.0.0",
+  "description": "combine useful flow tools with co",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dead-horse/cao"
+  },
+  "keywords": [
+    "co",
+    "flow",
+    "parallel",
+    "gather",
+    "any",
+    "defer",
+    "wait"
+  ],
+  "author": "dead_horse <dead_horse@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dead-horse/cao/issues"
+  },
+  "homepage": "https://github.com/dead-horse/cao",
+  "dependencies": {
+    "co": "3.0.4",
+    "co-defer": "0.1.0",
+    "co-each": "0.1.0",
+    "co-gather": "0.0.1",
+    "co-parallel": "1.0.0",
+    "co-thread": "0.0.1",
+    "co-wait": "0.0.0"
+  },
+  "devDependencies": {
+
+  }
+}
