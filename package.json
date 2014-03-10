@@ -1,6 +1,6 @@
 {
   "name": "cao",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "combine useful flow tools with co",
   "main": "index.js",
   "scripts": {
