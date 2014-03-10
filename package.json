@@ -33,7 +33,9 @@
     "co-wait": "0.0.0"
   },
   "devDependencies": {
-
+    "co-request": "^0.2.0"
   },
-  "files": ["index.js"]
+  "files": [
+    "index.js"
+  ]
 }

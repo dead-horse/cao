@@ -22,4 +22,4 @@ exports.wait = wait;
 exports.each = each;
 exports.thread = thread;
 exports.parallel = exports.all = parallel;
-exports.gather = exports.gather;
+exports.gather = gather;
